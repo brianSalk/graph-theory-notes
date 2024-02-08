@@ -9,7 +9,8 @@ A graph $G$ consists of $2$ sets, a set of verticies $V$ and a set of edges $E$.
 Given an edge $e = \\{u,v\\}$, $u$ and $v$ are the **end verticies**.  $u$ and $v$ are **incident** with $e$.  $u$ and $v$ are adjacent to eachother and therefor neighbors.  
 **Valency** or **degree**: the number of times a vertex appears as an end vertex in that graph, or the number of edges connected to that vertex.  
 Graphs can be displayed as adjacency lists or as diagrams.  
-
+**Subgraph**: A graph obtained by delting some nodes and/or edges from another graph.  
+**Induced Subgraph**: A graph obtained by deleting some nodes and only the edges incident to the deleted node(s).  
 
 
 
