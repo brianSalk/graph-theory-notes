@@ -18,7 +18,14 @@ Graphs can be displayed as adjacency lists or as diagrams.
 \sum_{v \in V} d(v) = 2|E|
 ```
 *note*: $|E|$ means the cardinality of $E$, or the number of elements in $E$.  
-**Isomorphism**: When two or more graphs differ only in names of edges and/or verticies but are structurally identical.  
+**Isomorphism**: When two or more graphs differ only in names of edges and/or verticies but are structurally identical.  Notated $\phi$. 
+If two graphs are isomorphic, then they must have:
+* the same $|V|$
+* the same $|E|$
+* Each vertex has the same valency
+
+These facts alone do not prove that two graphs are isomorphic, but can disprove that they are isomorphic.  There is no known polynomial time verification that two graphs are isomorps.  
+
 
 
 
