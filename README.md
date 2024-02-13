@@ -17,6 +17,10 @@ Graphs can be displayed as adjacency lists or as diagrams.
 ```math
 \sum_{v \in V} d(v) = 2|E|
 ```
+*note*: $|E|$ means the cardinality of $E$, or the number of elements in $E$.  
+**Isomorphism**: When two or more graphs differ only in names of edges and/or verticies but are structurally identical.  
+
+
 
 
 
