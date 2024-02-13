@@ -22,7 +22,7 @@ Graphs can be displayed as adjacency lists or as diagrams.
 If two graphs are isomorphic, then they must have:
 * the same $|V|$
 * the same $|E|$
-* Each vertex has the same valency
+* The same valency
 
 These facts alone do not prove that two graphs are isomorphic, but can disprove that they are isomorphic.  There is no known polynomial time verification that two graphs are isomorps.  
 
