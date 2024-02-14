@@ -24,7 +24,7 @@ If two graphs are isomorphic, then they must have:
 * the same $|E|$
 * The same valency of each $v \in V$
 
-These facts alone do not prove that two graphs are isomorphic, but can disprove that they are isomorphic.  There is no known polynomial time verification that two graphs are isomorps.  
+Proving the above alone does not prove that two graphs are isomorphic, but can disprove that they are isomorphic by failing to meet any of the above.  There is no known polynomial time verification that two graphs are isomorps.  
 
 
 
