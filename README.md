@@ -30,7 +30,13 @@ Proving the above alone does not prove that two graphs are isomorphic, but can d
 **Out Valency** aka **Out Degree**: The number of edges going out from a vertex.  
 **In Valency** aka **In Degree**: The number of edges going into a vertex.  
 **Arc**: Edges of a digraph.  
-**Walk**: The path from $u$ to $v$ where $u$ and $v$ are verticies.  These verticies must belong to the same connected component.  
+**Walk**: The edges from $u$ to $v$ where $u$ and $v$ are verticies.  These verticies must belong to the same connected component.  
+**Path**: A walk where each edge only appears once.  $P_n$ is a path of $n$ verticies.  
+**Tree**: connected graph with no cycles.  
+**Forest**: Disconnected graph with no cycles.  
+**Leaf**: A vertex of valency $1$, this applies to all graphs, not just trees.  The "root" may be considered a leaf.  
+$\mathbf{C_n}$: cycle graph containing $n$ verticies.  
+
 
 
 
