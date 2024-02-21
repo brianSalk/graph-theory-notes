@@ -26,6 +26,12 @@ If two graphs are isomorphic, then they must have:
 
 Proving the above alone does not prove that two graphs are isomorphic, but can disprove that they are isomorphic by failing to meet any of the above.  There is no known polynomial time verification that two graphs are isomorps.  
 
+**Digraph** aka **directed-graph**: A graph that only permits traversing one-way along an edge, directions represented by arrows.  
+**Out Valency** aka **Out Degree**: The number of edges going out from a vertex.  
+**Arc**: Edges of a digraph.
+
+
+
 
 
 
