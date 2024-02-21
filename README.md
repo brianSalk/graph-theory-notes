@@ -32,6 +32,13 @@ Proving the above alone does not prove that two graphs are isomorphic, but can d
 **Arc**: Edges of a digraph.  
 **Walk**: The edges from $u$ to $v$ where $u$ and $v$ are verticies.  These verticies must belong to the same connected component.  
 **Path**: A walk where each edge only appears once.  $P_n$ is a path of $n$ verticies.  
+**Hamilton Path**: A path that contains every vertex in the graph.  
+**Circuit**: A path that starts and ends at the same vertex.  
+**Cycle**: A circuit that does not contain repeate edges.  
+**Hamilton Cycle**: A cycle that visits every vertex in a graph.  
+**Trail**: A walk there each edge appears only once *and* it starts and ends on a different vertex (open).  
+**Euler Trail**: A trail that traverses each edge exactly once.  
+**Euler Tour**: Euler trail that begins and ends on the same vertex (closed).  
 **Tree**: connected graph with no cycles.  
 **Forest**: Disconnected graph with no cycles.  
 **Leaf**: A vertex of valency $1$, this applies to all graphs, not just trees.  The "root" may be considered a leaf.  
