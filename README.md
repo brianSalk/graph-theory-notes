@@ -29,7 +29,8 @@ Proving the above alone does not prove that two graphs are isomorphic, but can d
 **Digraph** aka **directed-graph**: A graph that only permits traversing one-way along an edge, directions represented by arrows.  
 **Out Valency** aka **Out Degree**: The number of edges going out from a vertex.  
 **In Valency** aka **In Degree**: The number of edges going into a vertex.  
-**Arc**: Edges of a digraph.
+**Arc**: Edges of a digraph.  
+**Walk**: The path from $u$ to $v$ where $u$ and $v$ are verticies.  These verticies must belong to the same connected component.  
 
 
 
